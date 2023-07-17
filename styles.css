@@ -93,5 +93,6 @@ button {
 
 footer {
   margin: 0;
-  height: 2vh;
+  height: 3vh;
+  text-align: center;
 }
