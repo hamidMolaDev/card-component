@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   background-color: hsl(30, 38%, 92%);
   margin: 0
@@ -51,7 +51,7 @@ p:first-of-type {
 }
 
 h1 {
-  font-family: static;
+  font-family: 'Fraunces', serif;
   font-size: 2rem;
   font-weight: 700;
   margin-right: 2rem;
@@ -65,7 +65,7 @@ p:last-of-type {
 
 #discount {
   color: hsl(158, 36%, 37%);
-  font-family: static;
+  font-family: 'Fraunces', serif;
   font-size: 1.75rem;
   font-weight: 700;
 }
@@ -86,8 +86,8 @@ button {
   border: none;
   width: 100%;
   padding: 1rem 0;
-  font-weight: 600;
-  font-family: 'Montserrat';
+  font-weight: 500;
+  font-family: 'Montserrat', sans-serif;
   border-radius: 0.5rem;
 }
 
